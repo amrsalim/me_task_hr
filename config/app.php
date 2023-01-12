@@ -24,7 +24,7 @@ return [
     */
 
     'env' => env('APP_ENV', 'production'),
-
+'asset_url' => env('ASSET_URL', 'https://www.example.com'),
     /*
     |--------------------------------------------------------------------------
     | Application Debug Mode
